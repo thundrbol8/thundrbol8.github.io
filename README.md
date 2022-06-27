@@ -1,3 +1,3 @@
-# thundrbol8.github.io
+# MY PORTFOLIO
 
 This is my personal porfolio website.
